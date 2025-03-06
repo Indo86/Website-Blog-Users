@@ -1,6 +1,6 @@
 <template>
     <!-- Footer -->
-    <footer class="text-center text-white" style="background-color: #3f51b5">
+    <footer class="text-center text-black">
     <!-- Grid container -->
     <div class="container">
       <!-- Section: Links -->
@@ -10,7 +10,7 @@
           <!-- Grid column -->
           <div class="col-md-2">
             <h6 class="text-uppercase font-weight-bold">
-              <a href="#!" class="text-white">About us</a>
+              <a href="#!" class="text-black">Home</a>
             </h6>
           </div>
           <!-- Grid column -->
@@ -18,7 +18,7 @@
           <!-- Grid column -->
           <div class="col-md-2">
             <h6 class="text-uppercase font-weight-bold">
-              <a href="#!" class="text-white">Products</a>
+              <a href="#!" class="text-black">About Us</a>
             </h6>
           </div>
           <!-- Grid column -->
@@ -26,7 +26,7 @@
           <!-- Grid column -->
           <div class="col-md-2">
             <h6 class="text-uppercase font-weight-bold">
-              <a href="#!" class="text-white">Awards</a>
+              <a href="#!" class="text-black">Category</a>
             </h6>
           </div>
           <!-- Grid column -->
@@ -34,7 +34,7 @@
           <!-- Grid column -->
           <div class="col-md-2">
             <h6 class="text-uppercase font-weight-bold">
-              <a href="#!" class="text-white">Help</a>
+              <a href="#!" class="text-black">Login</a>
             </h6>
           </div>
           <!-- Grid column -->
@@ -42,7 +42,7 @@
           <!-- Grid column -->
           <div class="col-md-2">
             <h6 class="text-uppercase font-weight-bold">
-              <a href="#!" class="text-white">Contact</a>
+              <a href="#!" class="text-black">Sign Up</a>
             </h6>
           </div>
           <!-- Grid column -->
@@ -58,34 +58,34 @@
         <div class="row d-flex justify-content-center">
           <div class="col-lg-8">
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt
-              distinctio earum repellat quaerat voluptatibus placeat nam,
-              commodi optio pariatur est quia magnam eum harum corrupti
-              dicta, aliquam sequi voluptate quas.
+              "Setiap cerita adalah jendela ke dunia yang berbeda. Berbagi pikiran bukan hanya menghubungkan kita,  
+              tetapi juga membuka pintu menuju pemahaman yang lebih luas. Mari bertukar cerita,  
+              berbagi perspektif, dan tumbuh bersama."
             </p>
           </div>
         </div>
       </section>
+
       <!-- Section: Text -->
 
       <!-- Section: Social -->
       <section class="text-center mb-5">
-        <a href="" class="text-white me-4">
+        <a href="" class="text-black me-4">
           <i class="fab fa-facebook-f"></i>
         </a>
-        <a href="" class="text-white me-4">
+        <a href="" class="text-black me-4">
           <i class="fab fa-twitter"></i>
         </a>
-        <a href="" class="text-white me-4">
+        <a href="" class="text-black me-4">
           <i class="fab fa-google"></i>
         </a>
-        <a href="" class="text-white me-4">
+        <a href="" class="text-black me-4">
           <i class="fab fa-instagram"></i>
         </a>
-        <a href="" class="text-white me-4">
+        <a href="" class="text-black me-4">
           <i class="fab fa-linkedin"></i>
         </a>
-        <a href="" class="text-white me-4">
+        <a href="" class="text-black me-4">
           <i class="fab fa-github"></i>
         </a>
       </section>
@@ -98,9 +98,9 @@
          class="text-center p-3"
          style="background-color: rgba(0, 0, 0, 0.2)"
          >
-      © 2020 Copyright:
-      <a class="text-white" href="https://mdbootstrap.com/"
-         >MDBootstrap.com</a
+      © 2025 Copyright:
+      <a class="text-black" href="#"
+         >Horizon Blog</a
         >
     </div>
     <!-- Copyright -->
@@ -108,5 +108,8 @@
 </template>
 
 <style scoped>
-    
+    footer{
+      background-color: #f9fafc;
+      box-shadow: rgba(0, 0, 0, 0.11) 0px -25px 20px -20px;
+    }
 </style>
