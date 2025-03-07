@@ -215,4 +215,11 @@ section{
     background-color: #0d6efd;
     color: white;
   } 
+
+  @media (max-width: 763px) {
+  .card-team {
+    min-width: 300px;
+    width: 100%;
+  }
+  }
 </style>

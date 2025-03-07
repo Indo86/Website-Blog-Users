@@ -3,8 +3,9 @@ import Navbar from '@/components/Navbar.vue';
 import Footer from '@/components/Footer.vue';
 import SearchWidget from '@/components/Widgets/SearchWidget.vue';
 import MedsosWidget from '@/components/Widgets/MedsosWidget.vue';
-import TagWidget from '@/components/Widgets/TagWIdget.vue';
+import TagWidget from '@/components/Widgets/TagWidget.vue';
 import Pagination from '@/components/Pagination.vue';
+
 
 </script>
 
